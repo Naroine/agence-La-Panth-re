@@ -100,11 +100,11 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: #1A1A1A(255, 255, 255, .7);
 }
 
 .d-bloc button:hover {
-    color: rgba(255, 255, 255, .9);
+    color: #1A1A1A(255, 255, 255, .9);
 }
 
 .d-bloc .icon-round,
@@ -736,7 +736,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #1A1A1A!important;
 }
 
 .portfolio-thumb {

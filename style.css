@@ -18,6 +18,8 @@ a:hover {
     cursor: pointer;
 }
 
+
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -780,7 +782,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #1A1A1A!important;
 }
 
 .btn-atomic-tangerine:hover {

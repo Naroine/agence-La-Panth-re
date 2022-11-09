@@ -369,6 +369,13 @@ a:hover {
 }
 
 @media (min-width: 768px) {
+    .h1-font{
+        font-size: 12px;
+    }
+    .social {
+        display: flex;
+        justify-content: space-evenly;
+    }
     .site-navigation {
         position: absolute;
         top: 50%;

@@ -266,6 +266,10 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
+.h1-font{
+    font-size: 25px;
+}
+
 .voffset {
     margin-top: 30px;
 }

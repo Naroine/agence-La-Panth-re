@@ -3,9 +3,11 @@
 <FilesMatch "\.(ico|jpe?g|png|gif|swf|css|gz|webp)$">
 Header set Cache-Control "max-age=2592000, public"
 </FilesMatch>
-<FilesMatch "\.(js)$">
-Header set Cache-Control "max-age=2592000, public"
-</FilesMatch>
+
+#<FilesMatch "\.(js)$">
+#Header set Cache-Control "max-age=2592000, public"
+#</FilesMatch>
+
 <filesMatch "\.(html|htm)$">
 Header set Cache-Control "max-age=7200, public"
 </filesMatch>
